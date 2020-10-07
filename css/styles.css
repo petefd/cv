@@ -1,5 +1,9 @@
+  @import url("https://fonts.googleapis.com/css?family=Poppins");
   body {
     background-color:ivory;
+    }
+    body {
+    font-family: 'Poppins';
       }
   hr {
     border-style: none;
@@ -13,7 +17,4 @@
   }
   h3 {
     color: royalblue;
-  }
-  body {
-    font-family: 'Permanent Marker', cursive;
   }
